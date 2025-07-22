@@ -1,0 +1,401 @@
+id,milage,brand,model,fuel,gear,offerType,price,horse power,year,engine size,doors,seats,previous owner,color,category,image url
+1,25699,Mercedes-Benz,V 250,Diesel,Automatic,Employee's car,63336,190.0,2020,2.5,4,4,2,Silver,Luxury,https://example.com/image.jpg
+2,33572,Volvo,V90 Cross Country,Diesel,Automatic,Used,31995,190.0,2018,4.8,4,4,2,White,Pickup,https://example.com/image.jpg
+3,12500,Mazda,3,Gasoline,Automatic,Used,26990,179.0,2019,3.9,4,4,3,Black,Hatchback,https://example.com/image.jpg
+4,29750,BMW,320,Diesel,Automatic,Used,38900,190.0,2019,3.4,4,4,1,Gray,Luxury,https://example.com/image.jpg
+5,99121,Peugeot,206,Gasoline,Manual,Used,3999,60.0,2011,1.6,4,4,3,Black,Sports Car,https://example.com/image.jpg
+6,100,Opel,Corsa,Gasoline,Manual,Pre-registered,17489,101.0,2021,1.6,2,2,3,Silver,Pickup,https://example.com/image.jpg
+7,84200,Skoda,Citigo,Gasoline,Manual,Used,5800,60.0,2016,1.2,2,2,2,White,Sports Car,https://example.com/image.jpg
+8,38886,BMW,116,Gasoline,Manual,Used,11687,136.0,2014,4.5,2,2,2,Blue,SUV,https://example.com/image.jpg
+9,17900,Mercedes-Benz,EQC 400,Electric,Automatic,Used,62950,408.0,2019,3.4,4,2,0,Green,Sedan,https://example.com/image.jpg
+10,79000,Kia,Picanto,Gasoline,Manual,Used,5295,69.0,2012,3.8,4,4,0,Gray,Pickup,https://example.com/image.jpg
+11,7500,Volkswagen,Caddy,Gasoline,Manual,Employee's car,21930,84.0,2020,1.1,2,4,3,White,SUV,https://example.com/image.jpg
+12,47869,Ford,Fiesta,Gasoline,Manual,Used,4500,60.0,2011,4.9,4,2,1,Silver,SUV,https://example.com/image.jpg
+13,1858,Renault,Twingo,Gasoline,Manual,Demonstration,11580,65.0,2021,4.3,2,4,2,Gray,Pickup,https://example.com/image.jpg
+14,4425,Fiat,500C,Gasoline,Manual,Used,17999,86.0,2018,1.8,2,2,2,Red,Sports Car,https://example.com/image.jpg
+15,5488,Hyundai,Tucson,Gasoline,Manual,Used,17990,135.0,2019,1.7,2,4,3,Black,Hatchback,https://example.com/image.jpg
+16,115800,Ford,Focus,Gasoline,Manual,Used,9480,150.0,2014,1.7,4,2,0,Green,SUV,https://example.com/image.jpg
+17,12000,Volkswagen,Passat Variant,Diesel,Manual,Used,20988,120.0,2016,2.2,4,4,1,Silver,Luxury,https://example.com/image.jpg
+18,71500,Opel,Mokka X,Gasoline,Manual,Used,12490,140.0,2016,3.1,2,4,0,Red,SUV,https://example.com/image.jpg
+19,47543,Opel,Astra,Gasoline,Manual,Used,12610,105.0,2019,2.7,2,2,0,White,Hatchback,https://example.com/image.jpg
+20,98000,Skoda,Rapid/Spaceback,Gasoline,Automatic,Used,8990,90.0,2017,2.2,2,4,0,Blue,Sports Car,https://example.com/image.jpg
+21,108100,SEAT,Ibiza,Gasoline,Manual,Used,7450,105.0,2015,3.4,2,2,0,Gray,Sports Car,https://example.com/image.jpg
+22,27858,Fiat,500,Gasoline,Manual,Used,9999,69.0,2019,1.6,4,2,2,Black,Luxury,https://example.com/image.jpg
+23,20800,Volkswagen,Polo,Gasoline,Manual,Used,12930,65.0,2018,2.2,4,2,2,Gray,SUV,https://example.com/image.jpg
+24,54400,Fiat,500C,Gasoline,Manual,Used,6980,69.0,2013,2.5,2,2,0,Green,Sports Car,https://example.com/image.jpg
+25,20283,Volkswagen,Touran,Gasoline,Automatic,Used,26250,150.0,2020,2.8,2,4,1,White,Hatchback,https://example.com/image.jpg
+26,52000,Skoda,Citigo,Gasoline,Manual,Used,7199,75.0,2015,4.1,4,4,3,Gray,Pickup,https://example.com/image.jpg
+27,41650,Skoda,Citigo,Gasoline,Manual,Used,6190,60.0,2015,1.8,4,4,1,Black,Sedan,https://example.com/image.jpg
+28,79072,Ford,C-Max,Diesel,Automatic,Used,8690,140.0,2012,3.1,2,2,1,White,Sedan,https://example.com/image.jpg
+29,165224,BMW,525,Diesel,Automatic,Used,14700,218.0,2015,3.4,2,4,1,Gray,Sedan,https://example.com/image.jpg
+30,74337,MINI,Cooper SD,Diesel,Manual,Used,13000,170.0,2015,1.2,2,2,0,Blue,SUV,https://example.com/image.jpg
+31,50,SEAT,Arona,Gasoline,Manual,Pre-registered,23900,116.0,2020,3.4,4,4,2,Silver,Luxury,https://example.com/image.jpg
+32,90000,Kia,Rio,Gasoline,Manual,Used,7200,84.0,2015,1.7,4,4,1,White,Sports Car,https://example.com/image.jpg
+33,50,Hyundai,Santa Fe,Electric/Gasoline,Automatic,Demonstration,46990,265.0,2021,1.3,4,4,0,Silver,Pickup,https://example.com/image.jpg
+34,69071,Dacia,Sandero,Gasoline,Manual,Used,6300,90.0,2013,4.8,2,2,1,White,Hatchback,https://example.com/image.jpg
+35,141500,SEAT,Ibiza,Gasoline,Manual,Used,4790,86.0,2012,4.9,2,4,1,Blue,Pickup,https://example.com/image.jpg
+36,15200,Volkswagen,up!,CNG,Manual,Used,8400,68.0,2017,4.2,4,4,0,Silver,Hatchback,https://example.com/image.jpg
+37,59953,Ford,Fiesta,Gasoline,Manual,Used,6990,82.0,2012,2.2,4,2,2,Red,SUV,https://example.com/image.jpg
+38,280000,Mercedes-Benz,GLS 350,Diesel,Automatic,Used,39999,258.0,2016,1.4,2,4,2,Black,Sedan,https://example.com/image.jpg
+39,19873,Mercedes-Benz,A 200,Diesel,Automatic,Used,27790,150.0,2020,3.7,4,2,3,Red,SUV,https://example.com/image.jpg
+40,4496,BMW,330,Electric/Gasoline,Automatic,Demonstration,58880,292.0,2021,2.8,4,4,0,Gray,Luxury,https://example.com/image.jpg
+41,85000,Volkswagen,T5 California,Diesel,Manual,Used,33980,140.0,2011,1.5,2,2,3,Blue,Luxury,https://example.com/image.jpg
+42,100,Skoda,Fabia,Gasoline,Manual,Pre-registered,12890,60.0,2021,3.0,4,2,3,Red,Hatchback,https://example.com/image.jpg
+43,84875,Opel,Astra,Gasoline,Manual,Used,9980,120.0,2015,1.1,2,4,3,White,Sports Car,https://example.com/image.jpg
+44,6315,Ford,Fiesta,Electric/Gasoline,Manual,Employee's car,16450,125.0,2020,4.6,2,2,2,Gray,Sports Car,https://example.com/image.jpg
+45,6500,Renault,Twingo,Gasoline,Manual,Demonstration,9960,73.0,2020,2.0,2,2,0,Gray,Hatchback,https://example.com/image.jpg
+46,122500,MINI,Cooper S,Gasoline,Manual,Used,10999,184.0,2011,3.7,2,2,3,Red,Luxury,https://example.com/image.jpg
+47,44750,BMW,M8,Gasoline,Automatic,Used,112749,625.0,2020,2.2,2,2,0,Red,Luxury,https://example.com/image.jpg
+48,96500,Mercedes-Benz,E 350,Gasoline,Automatic,Used,17950,272.0,2011,3.1,2,2,0,Blue,Luxury,https://example.com/image.jpg
+49,50,Volkswagen,Tiguan,Gasoline,Automatic,Pre-registered,32399,150.0,2021,3.2,2,2,2,Black,SUV,https://example.com/image.jpg
+50,8350,Hyundai,Kona,Gasoline,Automatic,Used,20791,177.0,2018,1.7,4,4,3,Red,Luxury,https://example.com/image.jpg
+51,27840,smart,forFour,Gasoline,Automatic,Used,15790,90.0,2019,4.9,2,2,3,Green,Pickup,https://example.com/image.jpg
+52,124549,Volkswagen,Tiguan,Diesel,Manual,Used,10999,140.0,2013,4.1,2,2,0,Red,Sedan,https://example.com/image.jpg
+53,63099,Chevrolet,Spark,Gasoline,Manual,Used,3990,68.0,2011,4.8,4,4,1,Silver,Luxury,https://example.com/image.jpg
+54,94500,Tesla,Model S,Electric,Automatic,Used,55990,700.0,2014,4.6,4,4,2,White,Hatchback,https://example.com/image.jpg
+55,10155,Renault,Kadjar,Gasoline,Automatic,Used,19990,140.0,2019,3.4,4,4,2,Green,Sedan,https://example.com/image.jpg
+56,105052,Hyundai,i40,Diesel,Automatic,Used,9999,136.0,2015,4.7,2,4,2,Green,SUV,https://example.com/image.jpg
+57,49602,Dodge,Durango,Gasoline,Automatic,Used,54999,481.0,2018,1.4,4,4,2,Silver,Hatchback,https://example.com/image.jpg
+58,151000,BMW,325,Diesel,Automatic,Used,13999,204.0,2011,1.8,2,4,3,Silver,Sedan,https://example.com/image.jpg
+59,29000,Toyota,Verso,Gasoline,Automatic,Used,16900,147.0,2013,1.2,2,4,3,Gray,Hatchback,https://example.com/image.jpg
+60,41328,Fiat,500C,Gasoline,Manual,Used,10890,86.0,2018,2.3,2,2,1,Black,SUV,https://example.com/image.jpg
+61,13650,Ford,Kuga,Gasoline,Manual,Employee's car,27780,150.0,2020,2.6,2,2,2,White,Pickup,https://example.com/image.jpg
+62,10,Skoda,Karoq,Gasoline,Automatic,Pre-registered,28990,150.0,2021,2.1,4,4,2,Blue,SUV,https://example.com/image.jpg
+63,8990,Ford,Focus,Diesel,Automatic,Employee's car,25950,150.0,2020,4.3,4,2,0,Green,SUV,https://example.com/image.jpg
+64,97000,Opel,Corsa,Diesel,Manual,Used,7500,95.0,2015,2.4,2,2,3,Blue,Hatchback,https://example.com/image.jpg
+65,1163,Suzuki,Ignis,Electric/Gasoline,Automatic,Employee's car,14999,83.0,2020,2.1,2,2,2,Red,Sports Car,https://example.com/image.jpg
+66,133000,SEAT,Ibiza,Gasoline,Manual,Used,5299,86.0,2011,3.2,2,4,1,Red,Luxury,https://example.com/image.jpg
+67,36500,SsangYong,REXTON,Diesel,Automatic,Used,21800,178.0,2017,1.6,4,4,1,Blue,Luxury,https://example.com/image.jpg
+68,75000,Mercedes-Benz,V 250,Diesel,Automatic,Used,48200,190.0,2017,4.2,2,2,3,Red,Pickup,https://example.com/image.jpg
+69,17618,Chevrolet,Camaro,Gasoline,Automatic,Demonstration,70805,630.0,2019,1.3,2,4,1,Black,Pickup,https://example.com/image.jpg
+70,80000,Peugeot,207,Gasoline,Manual,Used,6450,95.0,2012,4.9,4,2,1,Silver,Luxury,https://example.com/image.jpg
+71,50,Citroen,C1,Gasoline,Manual,Pre-registered,13480,72.0,2021,4.1,4,2,3,Red,Sports Car,https://example.com/image.jpg
+72,61700,Audi,A3,Gasoline,Automatic,Used,16700,125.0,2016,1.8,2,2,2,Gray,Luxury,https://example.com/image.jpg
+73,104000,Opel,Astra,Gasoline,Manual,Used,8500,120.0,2014,1.0,4,2,2,Red,Sports Car,https://example.com/image.jpg
+74,2500,Dacia,Duster,Gasoline,Manual,Demonstration,15480,101.0,2020,4.3,4,4,1,White,Pickup,https://example.com/image.jpg
+75,159999,Citroen,C4,Diesel,Manual,Used,4499,92.0,2013,3.8,2,4,1,Black,Sedan,https://example.com/image.jpg
+76,41379,Renault,Megane,Gasoline,Manual,Used,15990,132.0,2018,3.9,4,4,2,White,Hatchback,https://example.com/image.jpg
+77,47451,Skoda,Citigo,Gasoline,Manual,Used,8300,75.0,2015,4.1,2,2,3,White,Pickup,https://example.com/image.jpg
+78,175000,Audi,A5,Diesel,Manual,Used,12300,177.0,2012,1.3,4,4,1,Gray,Pickup,https://example.com/image.jpg
+79,42000,Volkswagen,up!,Gasoline,Manual,Used,5999,75.0,2014,2.4,2,2,0,Black,SUV,https://example.com/image.jpg
+80,6286,BMW,i3,Electric,Automatic,Used,24441,170.0,2019,1.5,2,4,3,Black,SUV,https://example.com/image.jpg
+81,91800,Mercedes-Benz,E 220,Diesel,Automatic,Used,21900,170.0,2015,4.5,2,2,1,Black,SUV,https://example.com/image.jpg
+82,67948,Citroen,C3,Gasoline,Automatic,Used,7490,120.0,2011,3.5,4,2,1,Black,Hatchback,https://example.com/image.jpg
+83,108900,Nissan,Micra,Gasoline,Manual,Used,5199,98.0,2012,2.3,2,2,0,Black,SUV,https://example.com/image.jpg
+84,128000,SEAT,Exeo,Gasoline,Manual,Used,5999,120.0,2011,1.3,4,4,0,Gray,Sports Car,https://example.com/image.jpg
+85,121500,BMW,216,Diesel,Manual,Used,11690,116.0,2017,2.2,2,4,2,Red,Luxury,https://example.com/image.jpg
+86,900,Peugeot,208,Electric,Automatic,Demonstration,32500,77.0,2021,2.3,2,4,3,White,Sedan,https://example.com/image.jpg
+87,61000,Citroen,C1,Gasoline,Manual,Used,5390,69.0,2016,3.9,4,4,3,Black,Pickup,https://example.com/image.jpg
+88,5000,Kia,Sorento,Electric/Gasoline,Automatic,Demonstration,54900,265.0,2021,3.6,2,2,2,Green,Sports Car,https://example.com/image.jpg
+89,14067,Audi,TT,Gasoline,Automatic,Used,45580,245.0,2019,4.5,2,4,3,Red,Sedan,https://example.com/image.jpg
+90,126000,Ford,C-Max,Diesel,Manual,Used,6900,116.0,2013,2.9,4,4,3,Red,Sports Car,https://example.com/image.jpg
+91,346000,Mercedes-Benz,Sprinter,Diesel,Manual,Used,8990,129.0,2013,1.5,2,2,3,White,Sports Car,https://example.com/image.jpg
+92,52926,Renault,Kadjar,Gasoline,Manual,Used,14890,131.0,2017,3.9,2,2,3,Gray,Pickup,https://example.com/image.jpg
+93,55000,Ford,Fiesta,Gasoline,Manual,Used,5800,60.0,2015,4.0,2,2,3,Blue,Luxury,https://example.com/image.jpg
+94,29600,Mercedes-Benz,Citan,Diesel,Manual,Used,17000,110.0,2019,3.2,2,4,0,Blue,SUV,https://example.com/image.jpg
+95,120971,Renault,Twingo,Gasoline,Manual,Used,2990,58.0,2011,4.1,4,2,3,Red,Hatchback,https://example.com/image.jpg
+96,71406,BMW,X1,Diesel,Automatic,Used,22890,150.0,2018,3.0,4,2,0,Silver,Luxury,https://example.com/image.jpg
+97,10,Toyota,Aygo,Gasoline,Manual,Pre-registered,9780,72.0,2021,3.1,2,2,3,Silver,Hatchback,https://example.com/image.jpg
+98,197177,SEAT,Altea,Diesel,Manual,Used,6280,140.0,2011,2.7,4,4,2,White,Pickup,https://example.com/image.jpg
+99,9883,Volkswagen,Passat,Diesel,Automatic,Employee's car,59960,190.0,2020,1.1,2,2,1,Blue,Pickup,https://example.com/image.jpg
+100,212000,BMW,318,Diesel,Manual,Used,9350,143.0,2014,1.4,4,4,0,Red,Pickup,https://example.com/image.jpg
+101,6000,Volkswagen,T-Cross,Gasoline,Automatic,Employee's car,26490,116.0,2020,1.1,2,4,3,Gray,Sedan,https://example.com/image.jpg
+102,58899,Ford,S-Max,Gasoline,Automatic,Used,22990,239.0,2017,3.5,2,2,2,Blue,Hatchback,https://example.com/image.jpg
+103,8,Toyota,C-HR,Electric/Gasoline,Automatic,Pre-registered,31660,184.0,2021,2.3,2,2,1,Red,Luxury,https://example.com/image.jpg
+104,50,Fiat,500,Gasoline,Manual,Used,13790,71.0,2021,3.0,2,4,0,Red,Luxury,https://example.com/image.jpg
+105,10,SEAT,Ibiza,Gasoline,Manual,Used,21490,95.0,2021,4.6,2,2,1,Black,Sports Car,https://example.com/image.jpg
+106,81500,Volkswagen,Tiguan,Diesel,Manual,Used,12900,110.0,2014,2.0,2,2,2,Gray,Sports Car,https://example.com/image.jpg
+107,4800,Ford,EcoSport,Gasoline,Manual,Used,18950,125.0,2020,2.6,4,4,0,Black,Sports Car,https://example.com/image.jpg
+108,82470,BMW,320,Diesel,Automatic,Used,15500,184.0,2012,4.0,2,4,1,White,Pickup,https://example.com/image.jpg
+109,138000,Toyota,Auris,Diesel,Manual,Used,9520,111.0,2017,1.9,4,2,3,Black,Luxury,https://example.com/image.jpg
+110,45880,Porsche,991,Gasoline,Automatic,Used,103790,420.0,2017,1.3,2,4,0,Green,Hatchback,https://example.com/image.jpg
+111,2180,Volkswagen,Touran,Diesel,Automatic,Used,38740,150.0,2020,2.2,4,2,1,Black,Pickup,https://example.com/image.jpg
+112,10,Kia,Picanto,Gasoline,Manual,Pre-registered,16990,101.0,2021,1.6,4,2,2,Green,Sedan,https://example.com/image.jpg
+113,11360,Ford,EcoSport,Gasoline,Manual,Employee's car,15996,101.0,2020,4.7,4,2,2,Blue,Sports Car,https://example.com/image.jpg
+114,10,Kia,Picanto,Gasoline,Manual,Pre-registered,16990,101.0,2021,4.2,2,4,0,Silver,Pickup,https://example.com/image.jpg
+115,70277,Volkswagen,up!,Gasoline,Manual,Used,5500,60.0,2015,3.5,2,2,1,Red,Pickup,https://example.com/image.jpg
+116,10,Skoda,Fabia,Gasoline,Manual,Pre-registered,14680,95.0,2020,4.5,4,2,0,Green,Sedan,https://example.com/image.jpg
+117,76400,Volkswagen,Golf,Gasoline,Manual,Used,9300,86.0,2013,4.2,2,2,0,Gray,SUV,https://example.com/image.jpg
+118,165000,Opel,Insignia,Diesel,Manual,Used,8490,140.0,2015,1.7,4,4,1,Black,Luxury,https://example.com/image.jpg
+119,24950,Ford,Ka/Ka+,Gasoline,Manual,Used,4990,69.0,2011,4.6,2,4,1,Green,Hatchback,https://example.com/image.jpg
+120,39000,Mazda,2,Gasoline,Manual,Used,13270,90.0,2018,3.2,4,4,3,Gray,SUV,https://example.com/image.jpg
+121,135000,Skoda,Octavia,Diesel,Manual,Used,7498,105.0,2011,4.2,4,4,1,Silver,Sports Car,https://example.com/image.jpg
+122,144263,Audi,A3,Gasoline,Manual,Used,8990,125.0,2012,4.6,2,4,2,Silver,Pickup,https://example.com/image.jpg
+123,127300,Opel,Combo,Diesel,Automatic,Used,7490,90.0,2012,2.3,4,2,0,Black,Sedan,https://example.com/image.jpg
+124,30149,Volkswagen,Passat,Gasoline,Manual,Used,19460,150.0,2018,1.4,2,4,0,White,Sedan,https://example.com/image.jpg
+125,38478,Hyundai,i20,Gasoline,Automatic,Used,16900,101.0,2018,1.9,4,4,2,Black,Luxury,https://example.com/image.jpg
+126,99500,Ford,Focus,Gasoline,Automatic,Used,8500,125.0,2014,2.7,4,4,1,Blue,SUV,https://example.com/image.jpg
+127,125000,Volkswagen,Phaeton,Diesel,Automatic,Used,13990,239.0,2013,4.3,2,2,2,Green,Luxury,https://example.com/image.jpg
+128,34067,Skoda,Citigo,Gasoline,Manual,Used,6720,60.0,2017,4.4,2,4,2,Red,Pickup,https://example.com/image.jpg
+129,104000,Renault,Twingo,Gasoline,Manual,Used,2800,75.0,2011,1.0,2,4,3,White,Luxury,https://example.com/image.jpg
+130,27000,BMW,540,Gasoline,Automatic,Used,37900,340.0,2018,3.0,4,2,2,Black,Hatchback,https://example.com/image.jpg
+131,31997,Ford,Fiesta,Gasoline,,Used,8558,71.0,2017,2.7,2,4,0,Gray,Sedan,https://example.com/image.jpg
+132,141298,Dacia,Dokker,Diesel,Manual,Used,5990,75.0,2013,1.9,4,2,2,White,Sedan,https://example.com/image.jpg
+133,88000,Volkswagen,Golf,Gasoline,Manual,Used,7999,105.0,2011,1.5,4,2,0,Green,Sports Car,https://example.com/image.jpg
+134,66000,Opel,Adam,Gasoline,Manual,Used,7600,101.0,2014,2.4,2,2,0,White,Sports Car,https://example.com/image.jpg
+135,110000,Opel,Vivaro,Diesel,Manual,Used,10200,114.0,2012,4.8,2,2,0,Green,Pickup,https://example.com/image.jpg
+136,21782,BMW,320,Gasoline,Automatic,Used,27400,184.0,2019,2.3,4,2,1,Black,Hatchback,https://example.com/image.jpg
+137,126413,Nissan,Pixo,Gasoline,Manual,Used,3999,68.0,2012,3.1,4,4,3,Green,SUV,https://example.com/image.jpg
+138,120000,SEAT,Ibiza,Gasoline,Manual,Used,6100,105.0,2014,3.8,2,2,0,White,Luxury,https://example.com/image.jpg
+139,26000,BMW,X2,Gasoline,Automatic,Used,29950,192.0,2018,2.5,2,2,0,Gray,Pickup,https://example.com/image.jpg
+140,177500,SEAT,Ibiza,Diesel,Manual,Used,4450,90.0,2013,4.9,2,4,1,Silver,Sports Car,https://example.com/image.jpg
+141,85021,Mercedes-Benz,S 350,Diesel,Automatic,Used,38470,258.0,2015,4.8,2,2,0,White,Luxury,https://example.com/image.jpg
+142,70000,Mercedes-Benz,GLS 350,Diesel,Automatic,Used,51950,258.0,2017,2.0,2,4,2,Green,Sports Car,https://example.com/image.jpg
+143,23868,Volkswagen,Golf,Gasoline,Automatic,Used,21990,150.0,2018,3.0,4,4,2,Silver,Luxury,https://example.com/image.jpg
+144,57600,Volkswagen,Passat Variant,Diesel,Manual,Used,10000,120.0,2015,2.2,4,4,3,Green,SUV,https://example.com/image.jpg
+145,125000,Ford,EcoSport,Gasoline,Manual,Used,6666,125.0,2014,2.1,4,2,0,Gray,Pickup,https://example.com/image.jpg
+146,68000,Audi,A1,Gasoline,Manual,Used,8000,86.0,2012,1.1,4,2,1,Green,Luxury,https://example.com/image.jpg
+147,16,Hyundai,Tucson,Gasoline,Manual,Pre-registered,27990,150.0,2021,3.4,2,2,2,Black,Hatchback,https://example.com/image.jpg
+148,62000,smart,forTwo,Gasoline,Automatic,Used,8749,71.0,2016,3.0,2,4,1,Red,Sedan,https://example.com/image.jpg
+149,53473,Opel,Adam,Gasoline,Manual,Used,7800,69.0,2015,1.2,2,2,1,White,Hatchback,https://example.com/image.jpg
+150,10600,Volkswagen,Caddy,Diesel,Manual,Used,25440,150.0,2020,2.1,4,2,2,Red,Hatchback,https://example.com/image.jpg
+151,197000,Volkswagen,Passat CC,Diesel,Automatic,Used,9100,140.0,2011,4.6,4,2,1,Green,Sedan,https://example.com/image.jpg
+152,77274,Volkswagen,up!,Gasoline,Manual,Used,4290,60.0,2012,2.0,2,4,2,Gray,Hatchback,https://example.com/image.jpg
+153,90000,Hyundai,i10,Gasoline,Manual,Used,6990,69.0,2016,1.6,2,4,1,White,Luxury,https://example.com/image.jpg
+154,105000,BMW,318,Diesel,Manual,Used,12999,143.0,2015,3.0,4,2,2,Green,Luxury,https://example.com/image.jpg
+155,103177,Skoda,Octavia,Gasoline,Manual,Used,6490,105.0,2011,4.9,4,2,0,Silver,Luxury,https://example.com/image.jpg
+156,90362,Skoda,Citigo,Gasoline,Manual,Used,6350,75.0,2016,2.0,2,2,3,Blue,Sedan,https://example.com/image.jpg
+157,36076,Volkswagen,Polo,Gasoline,Automatic,Used,12450,90.0,2014,3.7,2,2,2,Green,Hatchback,https://example.com/image.jpg
+158,34124,Mercedes-Benz,GLC 250,Gasoline,Automatic,Used,36989,211.0,2017,4.0,4,4,2,Red,Sedan,https://example.com/image.jpg
+159,1001,Renault,ZOE,Electric,Automatic,Demonstration,25637,107.0,2021,2.0,2,4,3,White,Luxury,https://example.com/image.jpg
+160,51649,Volkswagen,T-Roc,Gasoline,Automatic,Used,25700,190.0,2018,3.9,2,4,2,Red,Hatchback,https://example.com/image.jpg
+161,117000,Ford,Fiesta,Gasoline,Manual,Used,6378,80.0,2014,2.5,2,4,2,White,Hatchback,https://example.com/image.jpg
+162,14700,Peugeot,108,Gasoline,Manual,Used,10490,72.0,2018,3.5,4,2,1,Green,Sports Car,https://example.com/image.jpg
+163,15,Opel,Astra,Gasoline,Manual,Used,17900,131.0,2021,3.5,4,2,3,Black,Sports Car,https://example.com/image.jpg
+164,35120,Jaguar,F-Pace,Gasoline,Automatic,Used,51980,381.0,2018,3.1,4,2,0,Silver,SUV,https://example.com/image.jpg
+165,29729,Volkswagen,up!,Gasoline,Manual,Used,13333,116.0,2018,1.4,4,4,2,Green,Pickup,https://example.com/image.jpg
+166,299855,Audi,A5,Diesel,Automatic,Used,9990,190.0,2011,4.3,4,2,3,Red,Sports Car,https://example.com/image.jpg
+167,83000,Skoda,Octavia,Diesel,Manual,Used,14999,184.0,2014,2.3,4,4,1,Blue,Sedan,https://example.com/image.jpg
+168,86000,Opel,Astra,Gasoline,Manual,Used,7490,120.0,2012,1.7,4,4,0,Blue,Sports Car,https://example.com/image.jpg
+169,76918,Hyundai,i10,Gasoline,Manual,Used,4400,69.0,2013,1.2,2,2,3,Gray,SUV,https://example.com/image.jpg
+170,37900,Dacia,Sandero,Gasoline,Manual,Used,7800,90.0,2016,3.4,2,2,0,White,Hatchback,https://example.com/image.jpg
+171,112000,Ford,S-Max,Diesel,Automatic,Used,12990,163.0,2012,3.7,2,2,0,Red,SUV,https://example.com/image.jpg
+172,7025,Mercedes-Benz,GLC 250,Gasoline,Automatic,Used,32990,211.0,2016,1.1,2,4,0,Gray,Hatchback,https://example.com/image.jpg
+173,55350,SEAT,Leon,Gasoline,Automatic,Used,13650,110.0,2016,3.0,2,2,2,Red,Hatchback,https://example.com/image.jpg
+174,17355,smart,forFour,Gasoline,Manual,Used,12600,71.0,2019,1.9,2,4,2,White,Pickup,https://example.com/image.jpg
+175,287000,Ford,S-Max,Diesel,Manual,Used,7490,200.0,2014,3.6,2,2,1,Green,Sports Car,https://example.com/image.jpg
+176,59285,Opel,Meriva,Gasoline,Manual,Used,8980,120.0,2016,1.7,4,4,1,Green,Sedan,https://example.com/image.jpg
+177,130000,Opel,Astra,Gasoline,Manual,Used,5799,140.0,2011,3.8,4,4,3,Blue,Sedan,https://example.com/image.jpg
+178,96500,Audi,A3,Gasoline,Automatic,Used,8999,105.0,2012,2.5,2,2,1,Green,Luxury,https://example.com/image.jpg
+179,14300,Opel,Corsa,Gasoline,Manual,Used,11950,90.0,2019,4.7,2,4,0,Green,Hatchback,https://example.com/image.jpg
+180,21790,Audi,Q2,Diesel,Automatic,Used,30250,150.0,2018,1.6,4,4,0,Black,Sedan,https://example.com/image.jpg
+181,150000,Opel,Astra,Diesel,Manual,Used,5999,110.0,2014,2.4,2,2,2,Blue,Pickup,https://example.com/image.jpg
+182,96623,Volkswagen,Polo,Gasoline,Manual,Used,8499,90.0,2016,1.5,2,4,0,Gray,Hatchback,https://example.com/image.jpg
+183,17593,Renault,Clio,Gasoline,Manual,Used,9990,90.0,2019,4.7,4,2,3,Silver,Pickup,https://example.com/image.jpg
+184,38876,Kia,Rio,Gasoline,Manual,Used,7999,109.0,2013,4.5,2,4,0,Black,Sedan,https://example.com/image.jpg
+185,54550,Toyota,Yaris,Electric/Gasoline,Automatic,Used,11980,101.0,2017,2.0,4,2,0,Gray,Sedan,https://example.com/image.jpg
+186,125800,BMW,X3,Diesel,Automatic,Used,14500,184.0,2012,3.6,2,2,3,White,Luxury,https://example.com/image.jpg
+187,17894,Volkswagen,T6.1 Transporter,Diesel,Manual,Used,28718,114.0,2019,4.3,4,4,1,Black,Sedan,https://example.com/image.jpg
+188,37475,Skoda,Fabia,Gasoline,Manual,Used,6950,86.0,2013,3.2,4,4,1,Gray,Hatchback,https://example.com/image.jpg
+189,127208,Opel,Vivaro,Diesel,Manual,Used,12480,114.0,2013,3.1,4,4,3,White,Hatchback,https://example.com/image.jpg
+190,165988,Opel,Astra,Diesel,Manual,Used,6980,136.0,2016,2.0,2,4,2,Blue,Hatchback,https://example.com/image.jpg
+191,45635,Jaguar,F-Pace,Gasoline,Automatic,Used,54890,381.0,2018,1.4,4,4,0,Silver,Luxury,https://example.com/image.jpg
+192,23835,Ford,Focus,Gasoline,Manual,Used,16380,125.0,2019,4.6,2,2,3,White,Luxury,https://example.com/image.jpg
+193,117500,Mitsubishi,Colt,Gasoline,Manual,Used,2500,75.0,2011,4.6,2,4,0,Green,Sedan,https://example.com/image.jpg
+194,17371,Ford,Mondeo,Diesel,Automatic,Used,22950,150.0,2019,3.5,2,2,2,Red,SUV,https://example.com/image.jpg
+195,47738,SEAT,Ateca,Gasoline,Automatic,Used,23490,150.0,2017,2.4,2,2,0,White,SUV,https://example.com/image.jpg
+196,40000,Mazda,2,Gasoline,Manual,Used,11800,90.0,2016,2.4,4,4,3,White,Luxury,https://example.com/image.jpg
+197,55000,Citroen,C4 SpaceTourer,Gasoline,Manual,Used,10790,156.0,2014,3.9,4,2,0,Silver,Sedan,https://example.com/image.jpg
+198,36867,Renault,ZOE,Electric,Automatic,Used,9250,58.0,2014,4.6,2,2,1,Red,SUV,https://example.com/image.jpg
+199,3200,Fiat,500,Gasoline,Manual,Demonstration,13450,69.0,2020,4.5,2,2,2,Green,Sedan,https://example.com/image.jpg
+200,35400,smart,forTwo,Gasoline,Manual,Used,7700,71.0,2017,4.1,4,2,2,Gray,Sedan,https://example.com/image.jpg
+201,46900,Renault,Twingo,Gasoline,Manual,Used,7250,71.0,2015,3.6,2,4,2,Gray,Sedan,https://example.com/image.jpg
+202,29871,BMW,X3,Diesel,Automatic,Used,39999,258.0,2017,1.3,4,2,3,White,Sports Car,https://example.com/image.jpg
+203,62162,Volkswagen,Golf,Gasoline,Manual,Used,11410,86.0,2014,1.6,2,4,2,Red,Hatchback,https://example.com/image.jpg
+204,97673,Opel,Zafira,Gasoline,Manual,Used,7749,140.0,2011,4.6,2,4,1,Red,Sedan,https://example.com/image.jpg
+205,127000,Audi,A6,Diesel,Automatic,Used,27980,218.0,2017,3.4,4,2,3,Green,Sports Car,https://example.com/image.jpg
+206,100,Renault,Twingo,Gasoline,Manual,Pre-registered,12680,65.0,2021,1.0,2,4,1,Silver,Luxury,https://example.com/image.jpg
+207,92115,Volkswagen,Arteon,Gasoline,Automatic,Used,28487,280.0,2018,1.4,4,4,0,Blue,SUV,https://example.com/image.jpg
+208,65000,Fiat,Tipo,Gasoline,Manual,Used,6990,95.0,2016,3.7,2,4,0,Gray,Hatchback,https://example.com/image.jpg
+209,105000,Hyundai,i30,Diesel,Manual,Used,7990,110.0,2015,1.0,2,2,0,Silver,SUV,https://example.com/image.jpg
+210,10,Ford,Fiesta,Gasoline,Manual,Pre-registered,16480,95.0,2020,1.6,2,4,0,Black,Hatchback,https://example.com/image.jpg
+211,139000,SEAT,Ibiza,Diesel,Manual,Used,6400,75.0,2016,3.2,4,4,1,Gray,SUV,https://example.com/image.jpg
+212,43512,Citroen,C1,Gasoline,Manual,Used,7290,82.0,2015,3.8,2,4,3,Silver,Hatchback,https://example.com/image.jpg
+213,3655,Skoda,Karoq,Diesel,Manual,Demonstration,32680,150.0,2020,3.6,2,2,3,Gray,SUV,https://example.com/image.jpg
+214,168573,SEAT,Ibiza,Diesel,Manual,Used,5299,105.0,2012,1.9,2,4,2,Blue,SUV,https://example.com/image.jpg
+215,119202,Mercedes-Benz,GLC 220,Diesel,Automatic,Used,26990,170.0,2018,3.8,2,2,1,Black,SUV,https://example.com/image.jpg
+216,60798,Volkswagen,Touran,Gasoline,Manual,Used,16666,110.0,2016,1.9,4,2,0,Blue,SUV,https://example.com/image.jpg
+217,8360,Opel,Grandland X,Gasoline,Automatic,Used,25950,131.0,2020,2.3,4,2,1,Green,Luxury,https://example.com/image.jpg
+218,15,Fiat,500C,Electric/Gasoline,Manual,Pre-registered,16480,69.0,2021,4.0,2,2,2,Black,Sedan,https://example.com/image.jpg
+219,28900,Renault,Clio,Gasoline,Manual,Used,8700,90.0,2017,3.6,4,2,2,White,Pickup,https://example.com/image.jpg
+220,17419,Toyota,Aygo,Gasoline,Manual,Used,8950,72.0,2019,4.4,2,2,1,Silver,Sports Car,https://example.com/image.jpg
+221,66008,Jaguar,XE,Diesel,Automatic,Used,24998,241.0,2017,3.6,2,4,1,Black,Pickup,https://example.com/image.jpg
+222,56700,Citroen,C1,Gasoline,Manual,Used,6950,69.0,2014,3.3,2,2,1,Green,Pickup,https://example.com/image.jpg
+223,41291,Audi,A6,Diesel,Automatic,Used,34980,218.0,2018,1.4,4,4,3,Green,Hatchback,https://example.com/image.jpg
+224,70200,Volvo,V40 Cross Country,Diesel,Automatic,Used,13740,150.0,2014,2.5,4,4,0,Blue,Sedan,https://example.com/image.jpg
+225,283185,Citroen,Grand C4 Picasso,Diesel,Automatic,Used,7690,120.0,2016,2.1,4,2,1,Gray,Hatchback,https://example.com/image.jpg
+226,22100,Toyota,Aygo,Gasoline,Manual,Used,8490,69.0,2016,2.0,4,4,1,Black,Sedan,https://example.com/image.jpg
+227,15867,Fiat,500,Gasoline,Manual,Used,10990,69.0,2017,4.9,4,4,1,Silver,Sedan,https://example.com/image.jpg
+228,47400,BMW,118,Gasoline,Automatic,Used,15000,136.0,2015,2.6,4,4,2,Black,SUV,https://example.com/image.jpg
+229,81000,Audi,A1,Gasoline,Manual,Used,10000,86.0,2011,4.6,4,4,2,Red,Luxury,https://example.com/image.jpg
+230,70692,Skoda,Citigo,Gasoline,Manual,Used,7990,75.0,2016,3.5,4,2,3,Gray,SUV,https://example.com/image.jpg
+231,88000,Toyota,Aygo,Gasoline,Manual,Used,3950,68.0,2013,4.2,4,4,0,Silver,Luxury,https://example.com/image.jpg
+232,10,Fiat,Ducato,Diesel,Manual,Demonstration,32807,140.0,2020,3.0,2,2,3,Silver,Hatchback,https://example.com/image.jpg
+233,25,Hyundai,Kona,Gasoline,Manual,Pre-registered,23990,120.0,2021,3.3,4,4,0,White,Luxury,https://example.com/image.jpg
+234,35900,Mercedes-Benz,Citan,Diesel,Manual,Used,11677,90.0,2016,3.0,4,4,2,Blue,Hatchback,https://example.com/image.jpg
+235,150000,SEAT,Alhambra,Gasoline,Automatic,Used,21499,220.0,2016,1.8,4,2,2,White,Pickup,https://example.com/image.jpg
+236,123000,Volkswagen,Touran,Gasoline,Automatic,Used,10850,140.0,2012,3.9,4,4,2,Silver,Pickup,https://example.com/image.jpg
+237,94500,Volkswagen,Golf,Diesel,Manual,Used,13900,116.0,2018,2.1,4,4,3,Gray,Luxury,https://example.com/image.jpg
+238,62000,Mercedes-Benz,A 160,Gasoline,Automatic,Used,9700,95.0,2012,1.1,4,4,1,Black,Luxury,https://example.com/image.jpg
+239,71210,SEAT,Ibiza,Gasoline,Manual,Used,8180,75.0,2015,3.6,4,2,1,Black,Hatchback,https://example.com/image.jpg
+240,85000,Opel,Antara,Diesel,Manual,Used,8000,163.0,2015,1.7,4,4,2,Gray,SUV,https://example.com/image.jpg
+241,9352,Mitsubishi,Outlander,Electric/Gasoline,Automatic,Used,26890,135.0,2018,4.8,4,2,1,Silver,Hatchback,https://example.com/image.jpg
+242,115000,Chevrolet,Orlando,Gasoline,Manual,Used,7250,140.0,2013,4.8,4,4,1,Green,SUV,https://example.com/image.jpg
+243,7000,Skoda,Superb,Diesel,Automatic,Demonstration,33980,150.0,2018,4.7,4,2,3,Black,Pickup,https://example.com/image.jpg
+244,46800,Volkswagen,up!,Gasoline,Manual,Used,6700,60.0,2016,2.5,2,2,0,Green,Sedan,https://example.com/image.jpg
+245,14223,Opel,Crossland X,Gasoline,Manual,Used,14438,110.0,2019,1.1,2,4,2,Black,Luxury,https://example.com/image.jpg
+246,8,Hyundai,Tucson,Gasoline,Automatic,Pre-registered,41480,179.0,2021,4.7,4,4,2,Black,SUV,https://example.com/image.jpg
+247,18819,Volkswagen,Golf,Diesel,Automatic,Used,24900,150.0,2020,2.7,4,2,3,Blue,Hatchback,https://example.com/image.jpg
+248,20000,Mercedes-Benz,C 400,Gasoline,Automatic,Employee's car,55550,333.0,2020,4.9,2,2,3,Blue,Pickup,https://example.com/image.jpg
+249,135500,Skoda,Yeti,Gasoline,Manual,Used,9999,105.0,2015,4.9,4,4,1,Red,SUV,https://example.com/image.jpg
+250,7300,Ford,Puma,Gasoline,Manual,Employee's car,20950,125.0,2020,4.4,2,2,2,White,Hatchback,https://example.com/image.jpg
+251,75000,MINI,Cooper,Gasoline,Manual,Used,10500,122.0,2013,2.2,2,4,0,Gray,Luxury,https://example.com/image.jpg
+252,157000,Skoda,Rapid/Spaceback,Diesel,Manual,Used,9200,116.0,2018,2.5,2,4,3,Gray,Luxury,https://example.com/image.jpg
+253,3001,Audi,A6,Gasoline,Automatic,Demonstration,73975,252.0,2021,4.4,2,4,0,Gray,Sports Car,https://example.com/image.jpg
+254,99,Fiat,500,Electric/Gasoline,Manual,Pre-registered,14490,71.0,2021,2.3,2,4,0,Red,Sedan,https://example.com/image.jpg
+255,1850,Renault,Twingo,Electric,Automatic,Demonstration,26330,42.0,2020,1.7,4,2,2,Blue,Sports Car,https://example.com/image.jpg
+256,57635,Volkswagen,up!,Gasoline,Manual,Used,7244,75.0,2016,3.2,2,4,2,Silver,Pickup,https://example.com/image.jpg
+257,52600,Opel,Astra,Gasoline,Manual,Used,11333,150.0,2016,4.7,4,2,3,Green,SUV,https://example.com/image.jpg
+258,91000,Skoda,Rapid/Spaceback,Diesel,Manual,Used,7999,105.0,2013,3.8,4,4,2,Green,Pickup,https://example.com/image.jpg
+259,166000,Porsche,Panamera,Gasoline,Automatic,Used,24990,299.0,2011,3.3,2,2,2,Silver,Hatchback,https://example.com/image.jpg
+260,49200,Skoda,Octavia,Diesel,Manual,Used,15390,150.0,2017,1.4,2,4,2,Red,Luxury,https://example.com/image.jpg
+261,56500,Subaru,OUTBACK,Diesel,Manual,Used,14490,150.0,2014,3.5,4,2,0,Silver,Sports Car,https://example.com/image.jpg
+262,40000,smart,forTwo,Gasoline,Manual,Used,6650,61.0,2015,5.0,2,2,3,Gray,Sports Car,https://example.com/image.jpg
+263,123000,Opel,Corsa,Gasoline,Manual,Used,5399,69.0,2011,1.6,2,4,1,White,Sports Car,https://example.com/image.jpg
+264,65580,Ford,Focus,Gasoline,Manual,Used,10440,125.0,2018,3.1,4,4,0,Black,Pickup,https://example.com/image.jpg
+265,14000,Mercedes-Benz,GLE 350,Diesel,Automatic,Used,65990,258.0,2019,4.5,4,4,2,Green,Luxury,https://example.com/image.jpg
+266,29324,Audi,A1,Gasoline,Automatic,Used,21640,95.0,2020,4.0,2,4,0,Blue,SUV,https://example.com/image.jpg
+267,26500,smart,forFour,Gasoline,Manual,Used,7490,71.0,2014,3.8,4,2,2,Blue,Hatchback,https://example.com/image.jpg
+268,20,Fiat,500,Gasoline,Manual,Pre-registered,12290,69.0,2021,3.8,2,4,2,Red,SUV,https://example.com/image.jpg
+269,1600,Land,Rover Discovery,Diesel,Automatic,Used,44890,241.0,2019,2.4,2,2,0,Blue,Pickup,https://example.com/image.jpg
+270,115162,Skoda,Octavia,Diesel,Manual,Used,8980,110.0,2016,2.2,2,2,3,Gray,Hatchback,https://example.com/image.jpg
+271,7781,Mercedes-Benz,A 200,Gasoline,Automatic,Used,31480,163.0,2020,4.2,4,4,2,Green,Sports Car,https://example.com/image.jpg
+272,48500,Mitsubishi,Space Star,Gasoline,Manual,Used,6990,71.0,2019,4.2,4,2,3,Silver,Sedan,https://example.com/image.jpg
+273,70120,MINI,Cooper S,Gasoline,Manual,Used,15950,192.0,2016,4.5,4,2,1,Gray,Pickup,https://example.com/image.jpg
+274,103632,Citroen,C5,Diesel,Manual,Used,12890,150.0,2015,4.7,4,2,2,Red,Pickup,https://example.com/image.jpg
+275,47965,Renault,Clio,Gasoline,Manual,Used,5800,75.0,2012,3.0,4,2,3,Gray,Luxury,https://example.com/image.jpg
+276,106700,BMW,320,Diesel,Manual,Used,10990,184.0,2012,3.0,2,4,3,Silver,SUV,https://example.com/image.jpg
+277,49689,Jaguar,XE,Diesel,Automatic,Used,22750,179.0,2017,4.2,2,4,1,White,Pickup,https://example.com/image.jpg
+278,81100,Ford,Mondeo,Gasoline,Manual,Used,9990,160.0,2012,3.6,2,4,3,Red,Pickup,https://example.com/image.jpg
+279,83526,Volkswagen,Golf,Diesel,Manual,Used,15950,116.0,2018,3.8,2,4,3,White,Sports Car,https://example.com/image.jpg
+280,10,Hyundai,i10,Gasoline,Manual,Pre-registered,11330,67.0,2021,4.2,4,2,1,Black,Sports Car,https://example.com/image.jpg
+281,143120,Opel,Insignia,Diesel,Manual,Used,8900,194.0,2012,4.6,2,2,2,White,Hatchback,https://example.com/image.jpg
+282,58000,Chevrolet,Spark,Gasoline,Manual,Used,3600,68.0,2013,2.4,4,4,3,Black,Sedan,https://example.com/image.jpg
+283,299800,Volkswagen,Passat Variant,Diesel,Automatic,Used,7890,177.0,2014,2.5,2,4,3,Black,Luxury,https://example.com/image.jpg
+284,46949,Toyota,Avensis,Gasoline,Manual,Used,11990,147.0,2013,1.4,4,4,3,White,Sedan,https://example.com/image.jpg
+285,10572,Opel,Corsa,Gasoline,Manual,Employee's car,13490,75.0,2020,3.3,4,2,0,Red,Hatchback,https://example.com/image.jpg
+286,7262,SEAT,Ibiza,Gasoline,Manual,Used,17500,95.0,2019,1.1,2,4,1,Silver,Sports Car,https://example.com/image.jpg
+287,5000,Opel,Mokka,Gasoline,Automatic,Demonstration,29245,131.0,2021,2.9,2,4,0,Gray,SUV,https://example.com/image.jpg
+288,148113,Volkswagen,Golf Variant,Diesel,Automatic,Used,11950,150.0,2015,3.2,2,4,1,Gray,Sports Car,https://example.com/image.jpg
+289,112,Dacia,Duster,Gasoline,Manual,Pre-registered,15980,101.0,2021,2.1,2,2,2,Silver,Luxury,https://example.com/image.jpg
+290,33000,Kia,Picanto,Gasoline,Manual,Used,6390,65.0,2016,3.4,4,2,2,Green,Sports Car,https://example.com/image.jpg
+291,112600,Nissan,NV200,Diesel,Manual,Used,7140,90.0,2015,1.1,2,2,3,Green,Luxury,https://example.com/image.jpg
+292,67600,Volvo,XC90,Diesel,Automatic,Used,38750,235.0,2017,1.1,2,2,1,Black,Luxury,https://example.com/image.jpg
+293,11500,Skoda,Fabia,Gasoline,Manual,Used,9999,60.0,2016,4.3,4,2,2,Black,Luxury,https://example.com/image.jpg
+294,180000,Opel,Meriva,Gasoline,Manual,Used,3499,120.0,2011,2.4,2,2,1,Red,Hatchback,https://example.com/image.jpg
+295,5,Fiat,Tipo,Gasoline,Manual,Pre-registered,14390,95.0,2020,1.5,2,2,2,Blue,Luxury,https://example.com/image.jpg
+296,25000,Renault,Captur,Gasoline,Manual,Used,11200,90.0,2019,3.1,2,2,0,White,Luxury,https://example.com/image.jpg
+297,61455,Ford,Kuga,Gasoline,Manual,Used,19990,150.0,2018,4.1,2,4,2,Black,SUV,https://example.com/image.jpg
+298,181000,Peugeot,208,Diesel,Manual,Used,4900,114.0,2012,1.9,2,4,0,Gray,Sedan,https://example.com/image.jpg
+299,57515,Renault,Megane,Diesel,Manual,Used,12490,110.0,2018,3.5,4,2,2,Red,Pickup,https://example.com/image.jpg
+300,38016,Renault,Clio,Gasoline,Manual,Used,8990,76.0,2019,1.3,2,2,3,White,Sedan,https://example.com/image.jpg
+301,5000,Opel,Mokka,Electric,Automatic,Demonstration,32495,136.0,2021,1.2,2,4,0,Red,Luxury,https://example.com/image.jpg
+302,44600,Volkswagen,Polo,Gasoline,Manual,Employee's car,13490,95.0,2020,3.1,2,2,2,White,SUV,https://example.com/image.jpg
+303,58000,Opel,Insignia,Diesel,Manual,Used,16700,170.0,2016,3.2,2,2,3,White,Sports Car,https://example.com/image.jpg
+304,50,Hyundai,i10,Gasoline,Manual,Pre-registered,13790,67.0,2021,3.5,2,2,0,Silver,SUV,https://example.com/image.jpg
+305,75850,Lancia,Ypsilon,Gasoline,Manual,Used,3750,69.0,2012,3.9,4,4,3,Black,Luxury,https://example.com/image.jpg
+306,22032,Renault,Clio,Gasoline,Automatic,Used,16690,131.0,2020,4.9,2,4,1,Red,SUV,https://example.com/image.jpg
+307,110000,Toyota,Aygo,Gasoline,Manual,Used,5780,69.0,2016,3.1,4,4,1,Red,SUV,https://example.com/image.jpg
+308,250000,BMW,320,Diesel,Automatic,Used,10490,184.0,2012,2.3,4,4,0,Silver,Luxury,https://example.com/image.jpg
+309,30405,Ford,Focus,Gasoline,Manual,Used,16790,182.0,2016,4.2,2,4,2,Gray,Hatchback,https://example.com/image.jpg
+310,87760,Volkswagen,Golf,Gasoline,Manual,Used,6990,122.0,2011,2.1,2,2,0,Gray,SUV,https://example.com/image.jpg
+311,62000,Volkswagen,Golf Cabriolet,Gasoline,Manual,Used,9950,105.0,2013,2.8,2,4,3,Green,Pickup,https://example.com/image.jpg
+312,63000,Renault,Kadjar,Diesel,Manual,Used,12750,131.0,2015,1.3,2,2,2,Black,Pickup,https://example.com/image.jpg
+313,19600,Volkswagen,Tiguan,Gasoline,Automatic,Used,27220,150.0,2020,1.1,4,2,1,Black,SUV,https://example.com/image.jpg
+314,7,Ford,Fiesta,Gasoline,,Pre-registered,16710,95.0,2020,4.9,2,4,2,Blue,Hatchback,https://example.com/image.jpg
+315,19666,smart,forFour,Gasoline,Automatic,Used,9999,71.0,2016,4.3,2,4,1,Silver,Sports Car,https://example.com/image.jpg
+316,18587,Skoda,Fabia,Gasoline,Manual,Used,9930,60.0,2018,3.8,2,2,2,Gray,Luxury,https://example.com/image.jpg
+317,10,Fiat,500,Electric/Gasoline,Manual,Pre-registered,13221,69.0,2021,2.6,2,2,2,White,Pickup,https://example.com/image.jpg
+318,79000,Ford,Transit,Diesel,Manual,Used,9890,86.0,2011,1.7,2,2,2,Red,Sports Car,https://example.com/image.jpg
+319,313000,Audi,A7,Diesel,Automatic,Used,13899,245.0,2012,1.6,2,4,3,Black,SUV,https://example.com/image.jpg
+320,128680,Mercedes-Benz,C 220,Diesel,Automatic,Used,21700,170.0,2016,2.0,4,4,3,Red,Sports Car,https://example.com/image.jpg
+321,125000,Mercedes-Benz,E 220,Diesel,Automatic,Used,34499,194.0,2017,3.2,4,4,0,Red,Sedan,https://example.com/image.jpg
+322,70000,Volkswagen,Golf,Diesel,Manual,Used,10900,105.0,2013,3.9,2,4,0,Blue,Pickup,https://example.com/image.jpg
+323,135000,Mercedes-Benz,C 220,Diesel,Manual,Used,15990,170.0,2012,3.6,2,4,1,Gray,SUV,https://example.com/image.jpg
+324,142000,Renault,Twingo,Gasoline,Manual,Used,3499,75.0,2013,2.1,2,2,3,Black,Luxury,https://example.com/image.jpg
+325,115000,Volkswagen,Golf,Gasoline,Automatic,Used,10990,105.0,2013,4.8,4,4,1,Red,Hatchback,https://example.com/image.jpg
+326,69000,Toyota,Avensis,Gasoline,Manual,Used,6999,132.0,2011,4.0,2,2,0,Black,SUV,https://example.com/image.jpg
+327,98372,Ford,Fiesta,Gasoline,Manual,Used,8490,101.0,2013,3.2,4,2,1,White,Luxury,https://example.com/image.jpg
+328,80000,Opel,Adam,Gasoline,Manual,Used,7290,87.0,2013,3.4,2,2,0,Blue,Hatchback,https://example.com/image.jpg
+329,67000,Toyota,Verso,Gasoline,Manual,Used,11890,147.0,2014,2.7,2,4,3,White,Hatchback,https://example.com/image.jpg
+330,5,Hyundai,Tucson,Gasoline,Automatic,Demonstration,33990,230.0,2021,2.0,2,4,2,Black,SUV,https://example.com/image.jpg
+331,89750,Volkswagen,Passat,Diesel,Manual,Used,14989,120.0,2017,2.4,2,4,3,Green,Sports Car,https://example.com/image.jpg
+332,51355,Renault,Twizy,Electric,Automatic,Used,4990,5.0,2017,4.0,4,2,1,Black,Sports Car,https://example.com/image.jpg
+333,98300,Ford,Fiesta,Gasoline,Manual,Used,6000,65.0,2013,1.1,4,2,1,Gray,Hatchback,https://example.com/image.jpg
+334,12110,Volkswagen,Golf Sportsvan,Diesel,Manual,Employee's car,24980,116.0,2020,1.5,2,2,3,Red,Sports Car,https://example.com/image.jpg
+335,230000,Volkswagen,Passat Variant,Diesel,Automatic,Used,8950,140.0,2013,1.2,2,2,3,Red,Sedan,https://example.com/image.jpg
+336,10,Skoda,Octavia,Gasoline,Manual,Pre-registered,19790,116.0,2020,1.2,4,2,0,White,Hatchback,https://example.com/image.jpg
+337,98000,Volkswagen,Tiguan,Gasoline,Manual,Used,11975,160.0,2013,4.4,4,2,1,Blue,Hatchback,https://example.com/image.jpg
+338,10200,Kia,Soul,Electric,Automatic,Used,21860,110.0,2017,3.8,4,4,1,Green,Luxury,https://example.com/image.jpg
+339,44374,Porsche,Panamera,Gasoline,Automatic,Used,59900,441.0,2016,2.9,4,4,3,Silver,Sports Car,https://example.com/image.jpg
+340,94241,Ford,Edge,Diesel,Automatic,Used,27900,209.0,2018,1.4,2,4,2,Red,Hatchback,https://example.com/image.jpg
+341,162569,Peugeot,Bipper,Gasoline,Manual,Used,5590,73.0,2012,3.0,4,4,1,Gray,Sedan,https://example.com/image.jpg
+342,52500,Kia,ProCeed / pro_cee'd,Gasoline,Manual,Used,12500,204.0,2014,2.9,2,2,2,White,Luxury,https://example.com/image.jpg
+343,37800,Opel,Corsa,Gasoline,Automatic,Used,7950,101.0,2011,1.7,4,2,3,White,SUV,https://example.com/image.jpg
+344,112231,Nissan,Qashqai,Diesel,Manual,Used,10900,110.0,2015,2.7,4,4,3,Silver,Hatchback,https://example.com/image.jpg
+345,139000,Fiat,500,Diesel,Manual,Used,6250,95.0,2014,2.6,4,2,0,Gray,Sedan,https://example.com/image.jpg
+346,9885,Kia,Stonic,Gasoline,Manual,Used,17450,120.0,2019,3.5,4,4,1,Blue,Pickup,https://example.com/image.jpg
+347,139840,Ford,Focus,Gasoline,Manual,Used,6799,125.0,2013,3.5,4,4,2,Gray,Sedan,https://example.com/image.jpg
+348,67561,Skoda,Citigo,Gasoline,Manual,Used,6800,60.0,2016,1.2,2,4,0,Blue,Sedan,https://example.com/image.jpg
+349,15721,Audi,Q3,Diesel,Automatic,Employee's car,39280,150.0,2020,2.5,2,2,1,Gray,Luxury,https://example.com/image.jpg
+350,10,Ford,Kuga,Gasoline,Manual,Employee's car,25970,150.0,2020,3.5,4,4,0,Gray,SUV,https://example.com/image.jpg
+351,81971,Volkswagen,Golf,Diesel,Automatic,Used,22755,184.0,2017,3.0,4,4,3,Black,Pickup,https://example.com/image.jpg
+352,200000,Mercedes-Benz,C 200,Diesel,Manual,Used,9950,136.0,2013,4.4,2,4,1,White,Sports Car,https://example.com/image.jpg
+353,21500,Hyundai,i20,Gasoline,Manual,Used,11250,101.0,2019,3.6,4,2,0,Gray,Sports Car,https://example.com/image.jpg
+354,10,Volkswagen,Polo,Gasoline,Automatic,Employee's car,25949,150.0,2021,1.7,4,2,0,Silver,Sedan,https://example.com/image.jpg
+355,78000,Skoda,Fabia,Gasoline,Manual,Used,7500,105.0,2011,1.3,2,4,2,Gray,Luxury,https://example.com/image.jpg
+356,83008,Volkswagen,up!,Gasoline,Manual,Used,7870,75.0,2016,3.6,4,2,0,Red,Luxury,https://example.com/image.jpg
+357,61590,Fiat,500,Gasoline,Manual,Used,5900,69.0,2012,1.1,4,2,1,White,Sports Car,https://example.com/image.jpg
+358,84000,Opel,Adam,Gasoline,Manual,Used,7200,101.0,2014,3.3,2,2,1,Red,Pickup,https://example.com/image.jpg
+359,1000,Dacia,Sandero,Gasoline,Manual,Demonstration,13590,101.0,2021,4.8,2,2,2,White,SUV,https://example.com/image.jpg
+360,67040,Toyota,Aygo,Gasoline,Manual,Used,4800,68.0,2013,3.3,2,2,1,Red,Pickup,https://example.com/image.jpg
+361,100,Renault,Twingo,Gasoline,Manual,Pre-registered,11480,65.0,2021,2.6,4,2,3,Gray,Hatchback,https://example.com/image.jpg
+362,28174,Hyundai,Tucson,Diesel,Automatic,Used,24990,141.0,2018,3.6,2,2,1,Gray,Hatchback,https://example.com/image.jpg
+363,24000,Fiat,500C,Gasoline,Manual,Used,12900,86.0,2018,2.8,2,2,1,Black,SUV,https://example.com/image.jpg
+364,5,Toyota,Yaris,Gasoline,Manual,Pre-registered,14880,72.0,2021,3.2,2,2,0,Silver,Sports Car,https://example.com/image.jpg
+365,8650,Ford,Kuga,Diesel,Automatic,Employee's car,28980,179.0,2019,4.8,2,2,0,Red,SUV,https://example.com/image.jpg
+366,80870,Subaru,XV,Diesel,Manual,Used,10990,147.0,2013,2.5,2,4,1,Blue,Luxury,https://example.com/image.jpg
+367,22000,Volkswagen,Caddy,Diesel,Automatic,Demonstration,24900,102.0,2019,4.8,2,4,2,Black,Hatchback,https://example.com/image.jpg
+368,2100,Mazda,MX-5,Gasoline,Manual,Demonstration,28850,132.0,2020,4.6,4,2,0,Red,Sedan,https://example.com/image.jpg
+369,239448,Mercedes-Benz,A 180,Diesel,Manual,Used,3490,109.0,2011,1.8,4,4,2,Red,Sedan,https://example.com/image.jpg
+370,10247,Mitsubishi,Space Star,Gasoline,Manual,Used,8785,71.0,2019,1.3,2,4,1,Black,Sports Car,https://example.com/image.jpg
+371,13000,Opel,Corsa,Gasoline,Manual,Used,11880,90.0,2018,1.4,2,2,1,Gray,Luxury,https://example.com/image.jpg
+372,10,Fiat,500,Electric/Gasoline,Manual,Pre-registered,13590,69.0,2021,1.1,2,2,3,Red,Pickup,https://example.com/image.jpg
+373,132000,Skoda,Fabia,Diesel,Manual,Used,5499,105.0,2013,1.4,4,2,0,Gray,Luxury,https://example.com/image.jpg
+374,74970,BMW,116,Diesel,Manual,Used,15980,116.0,2019,3.7,4,4,1,Black,Sedan,https://example.com/image.jpg
+375,43000,Opel,Corsa,Gasoline,Manual,Used,6997,69.0,2014,1.3,4,4,3,Gray,Sedan,https://example.com/image.jpg
+376,22440,Audi,A5,Gasoline,Automatic,Used,38740,190.0,2020,2.3,4,2,0,White,Hatchback,https://example.com/image.jpg
+377,46949,Toyota,Avensis,Gasoline,Manual,Used,11990,147.0,2013,1.4,4,4,3,White,Sedan,https://example.com/image.jpg
+378,135000,Skoda,Octavia,Diesel,Manual,Used,7498,105.0,2011,4.2,4,4,1,Silver,Sports Car,https://example.com/image.jpg
+379,4800,Ford,EcoSport,Gasoline,Manual,Used,18950,125.0,2020,2.6,4,4,0,Black,Sports Car,https://example.com/image.jpg
+380,287000,Ford,S-Max,Diesel,Manual,Used,7490,200.0,2014,3.6,2,2,1,Green,Sports Car,https://example.com/image.jpg
+381,97673,Opel,Zafira,Gasoline,Manual,Used,7749,140.0,2011,4.6,2,4,1,Red,Sedan,https://example.com/image.jpg
+382,29729,Volkswagen,up!,Gasoline,Manual,Used,13333,116.0,2018,1.4,4,4,2,Green,Pickup,https://example.com/image.jpg
+383,75850,Lancia,Ypsilon,Gasoline,Manual,Used,3750,69.0,2012,3.9,4,4,3,Black,Luxury,https://example.com/image.jpg
+384,39000,Mazda,2,Gasoline,Manual,Used,13270,90.0,2018,3.2,4,4,3,Gray,SUV,https://example.com/image.jpg
+385,6315,Ford,Fiesta,Electric/Gasoline,Manual,Employee's car,16450,125.0,2020,4.6,2,2,2,Gray,Sports Car,https://example.com/image.jpg
+386,63000,Renault,Kadjar,Diesel,Manual,Used,12750,131.0,2015,1.3,2,2,2,Black,Pickup,https://example.com/image.jpg
+387,90362,Skoda,Citigo,Gasoline,Manual,Used,6350,75.0,2016,2.0,2,2,3,Blue,Sedan,https://example.com/image.jpg
+388,22000,Volkswagen,Caddy,Diesel,Automatic,Demonstration,24900,102.0,2019,4.8,2,4,2,Black,Hatchback,https://example.com/image.jpg
+389,92115,Volkswagen,Arteon,Gasoline,Automatic,Used,28487,280.0,2018,1.4,4,4,0,Blue,SUV,https://example.com/image.jpg
+390,82470,BMW,320,Diesel,Automatic,Used,15500,184.0,2012,4.0,2,4,1,White,Pickup,https://example.com/image.jpg
+391,75000,MINI,Cooper,Gasoline,Manual,Used,10500,122.0,2013,2.2,2,4,0,Gray,Luxury,https://example.com/image.jpg
+392,10247,Mitsubishi,Space Star,Gasoline,Manual,Used,8785,71.0,2019,1.3,2,4,1,Black,Sports Car,https://example.com/image.jpg
+393,12110,Volkswagen,Golf Sportsvan,Diesel,Manual,Employee's car,24980,116.0,2020,1.5,2,2,3,Red,Sports Car,https://example.com/image.jpg
+394,27000,BMW,540,Gasoline,Automatic,Used,37900,340.0,2018,3.0,4,2,2,Black,Hatchback,https://example.com/image.jpg
+395,11500,Skoda,Fabia,Gasoline,Manual,Used,9999,60.0,2016,4.3,4,2,2,Black,Luxury,https://example.com/image.jpg
+396,98000,Skoda,Rapid/Spaceback,Gasoline,Automatic,Used,8990,90.0,2017,2.2,2,4,0,Blue,Sports Car,https://example.com/image.jpg
+397,58000,Chevrolet,Spark,Gasoline,Manual,Used,3600,68.0,2013,2.4,4,4,3,Black,Sedan,https://example.com/image.jpg
+398,10572,Opel,Corsa,Gasoline,Manual,Employee's car,13490,75.0,2020,3.3,4,2,0,Red,Hatchback,https://example.com/image.jpg
+399,25699,Mercedes-Benz,V 250,Diesel,Automatic,Employee's car,63336,190.0,2020,2.5,4,4,2,Silver,Luxury,https://example.com/image.jpg
+400,24950,Ford,Ka/Ka+,Gasoline,Manual,Used,4990,69.0,2011,4.6,2,4,1,Green,Hatchback,https://example.com/image.jpg
